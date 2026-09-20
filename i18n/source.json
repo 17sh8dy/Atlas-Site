@@ -1,0 +1,520 @@
+{
+  "site": "atlas",
+  "pages": 1,
+  "strings": [
+    "• Desktop-first",
+    "• Highly customizable",
+    "• Local capabilities",
+    "© <1/> Atlas",
+    "<1><2>GH</2><3>GitHub</3></1>",
+    "<1>AVAILABLE NOW</1>",
+    "<1>Pilot</1> is ready with a <2>Electric Blue</2> accent.",
+    "<1>Product</1><2>Capabilities</2><3>Customization</3><4>Interface</4><5>Download</5><6>About</6>",
+    "◉ Assistant",
+    "◫ Appearance",
+    "⚙ Preferences",
+    "✓ Expandable architecture",
+    "✓ Transparent activity",
+    "✓ Useful by default",
+    "✦ Behavior",
+    "A capability system built to expand with new skills, integrations, and workflows over time.",
+    "A command surface for your desktop.",
+    "A direct look at the Atlas experience: clear status, direct controls, task context, and recent activity without turning the desktop into a dashboard jungle.",
+    "A serious desktop assistant designed to help you understand, automate, and control your computer.",
+    "A simple model for complex work.",
+    "About",
+    "Accent",
+    "Actions should be understandable.",
+    "Adapt around you",
+    "Appearance &amp; themes",
+    "Assistant identity",
+    "Assistant name",
+    "Atlas",
+    "Atlas — a powerful desktop assistant built for capability, automation, customization, and control.",
+    "Atlas — Desktop assistant built for control",
+    "Atlas — Your desktop. Your commands. Your assistant.",
+    "Atlas / Personalization",
+    "Atlas acts",
+    "Atlas appearance settings with theme, accent color and effects.",
+    "Atlas home",
+    "Atlas interface",
+    "Atlas is a powerful desktop assistant built to understand what you need, interact with your computer, and adapt to the way you work.",
+    "Atlas is a real desktop tool: it understands objectives, works with your environment, and can grow new abilities over time.",
+    "Atlas is a serious desktop assistant—not a thin chat window wrapped around a model.",
+    "Atlas is ready.",
+    "Atlas listing what it can do: files, system, web, text, utilities, notes and developer actions.",
+    "Atlas principles",
+    "Atlas settings showing three execution modes and the emergency stop key.",
+    "Atlas understands",
+    "Atlas, your way.",
+    "Automation",
+    "Available now",
+    "Built around a desktop-first architecture with local capabilities at the center.",
+    "Built for control.<1/>Built to be useful.<2/>Built to adapt.",
+    "Built for Windows · Desktop-first",
+    "Capabilities",
+    "CAPABILITIES",
+    "Capability over chat",
+    "Choose a visual personality without changing the core system.",
+    "Choose how much Atlas asks before it acts.",
+    "Close",
+    "Confirm Actions",
+    "Customization",
+    "CUSTOMIZATION",
+    "Describe the outcome in natural language.",
+    "Designed to grow",
+    "Designed to interact with the apps, windows, files, and tools you actually use.",
+    "Desktop assistant · <1>Available now</1>",
+    "Desktop assistant built for capability, customization, and control.",
+    "Desktop control",
+    "Discord",
+    "Do It",
+    "Documentation, releases, and additional Atlas links.",
+    "Download",
+    "Download Atlas",
+    "Download Atlas.",
+    "Electric Blue",
+    "Execution mode",
+    "Execution preferences",
+    "Explore",
+    "Explore Atlas",
+    "GH",
+    "GitHub",
+    "Graphite",
+    "HOW ATLAS WORKS",
+    "How much Atlas should ask before acting.",
+    "Identity",
+    "Intelligence",
+    "Interface",
+    "INTERFACE",
+    "It interprets the request and chooses an appropriate path.",
+    "Local-first",
+    "Made to do things, not just answer.",
+    "Make it yours: theme, accent and effects.",
+    "More ↓",
+    "More than a chatbot.",
+    "No giant workflow diagram required. The core loop is intentionally easy to understand.",
+    "Open menu",
+    "PHILOSOPHY",
+    "Plan First",
+    "Platform",
+    "Preview",
+    "Primary navigation",
+    "Product",
+    "Project",
+    "See the interface",
+    "Shape the assistant around your name, voice, appearance, behavior, and preferred execution style.",
+    "Skills &amp; workflows",
+    "Slate Violet",
+    "Stay in control",
+    "Steel Teal",
+    "System",
+    "Task · Activity · Settings",
+    "The activity is visible and the system remains configurable.",
+    "The assistant should fit your workflow—not the other way around. Explore a few of the controls you can use to make Atlas personal.",
+    "The Atlas home screen: a greeting, a list of recent activity, and a message box.",
+    "The desktop application is ready. Download the Windows installer directly from GitHub Releases; Atlas can update itself when new releases are published.",
+    "The goal is a system that becomes more capable without becoming harder to understand. The interface stays calm. The controls stay explicit. The assistant adapts to the person using it.",
+    "The latest Windows installer is served from GitHub Releases. Atlas can update itself when new releases are published.",
+    "The name Atlas uses when speaking to you.",
+    "Theme choices",
+    "Tools and desktop actions carry the task forward.",
+    "Turn a plain-language goal into a sequence of useful actions and repeatable workflows.",
+    "Understand what you are trying to accomplish, then choose tools and actions that fit the task.",
+    "v",
+    "v<1/>",
+    "View GitHub Releases ↗",
+    "Windows · x64",
+    "Windows installer · Automatic updates",
+    "You ask",
+    "You stay in control",
+    "Your assistant can feel like yours.",
+    "Your desktop.<1/><2>Your commands.</2><3/>Your assistant."
+  ],
+  "where": {
+    "• Desktop-first": [
+      "/index.html"
+    ],
+    "• Highly customizable": [
+      "/index.html"
+    ],
+    "• Local capabilities": [
+      "/index.html"
+    ],
+    "© <1/> Atlas": [
+      "/index.html"
+    ],
+    "<1><2>GH</2><3>GitHub</3></1>": [
+      "/index.html"
+    ],
+    "<1>AVAILABLE NOW</1>": [
+      "/index.html"
+    ],
+    "<1>Pilot</1> is ready with a <2>Electric Blue</2> accent.": [
+      "/index.html"
+    ],
+    "<1>Product</1><2>Capabilities</2><3>Customization</3><4>Interface</4><5>Download</5><6>About</6>": [
+      "/index.html"
+    ],
+    "◉ Assistant": [
+      "/index.html"
+    ],
+    "◫ Appearance": [
+      "/index.html"
+    ],
+    "⚙ Preferences": [
+      "/index.html"
+    ],
+    "✓ Expandable architecture": [
+      "/index.html"
+    ],
+    "✓ Transparent activity": [
+      "/index.html"
+    ],
+    "✓ Useful by default": [
+      "/index.html"
+    ],
+    "✦ Behavior": [
+      "/index.html"
+    ],
+    "A capability system built to expand with new skills, integrations, and workflows over time.": [
+      "/index.html"
+    ],
+    "A command surface for your desktop.": [
+      "/index.html"
+    ],
+    "A direct look at the Atlas experience: clear status, direct controls, task context, and recent activity without turning the desktop into a dashboard jungle.": [
+      "/index.html"
+    ],
+    "A serious desktop assistant designed to help you understand, automate, and control your computer.": [
+      "/index.html"
+    ],
+    "A simple model for complex work.": [
+      "/index.html"
+    ],
+    "About": [
+      "/index.html"
+    ],
+    "Accent": [
+      "/index.html"
+    ],
+    "Actions should be understandable.": [
+      "/index.html"
+    ],
+    "Adapt around you": [
+      "/index.html"
+    ],
+    "Appearance &amp; themes": [
+      "/index.html"
+    ],
+    "Assistant identity": [
+      "/index.html"
+    ],
+    "Assistant name": [
+      "/index.html"
+    ],
+    "Atlas": [
+      "/index.html"
+    ],
+    "Atlas — a powerful desktop assistant built for capability, automation, customization, and control.": [
+      "/index.html"
+    ],
+    "Atlas — Desktop assistant built for control": [
+      "/index.html"
+    ],
+    "Atlas — Your desktop. Your commands. Your assistant.": [
+      "/index.html"
+    ],
+    "Atlas / Personalization": [
+      "/index.html"
+    ],
+    "Atlas acts": [
+      "/index.html"
+    ],
+    "Atlas appearance settings with theme, accent color and effects.": [
+      "/index.html"
+    ],
+    "Atlas home": [
+      "/index.html"
+    ],
+    "Atlas interface": [
+      "/index.html"
+    ],
+    "Atlas is a powerful desktop assistant built to understand what you need, interact with your computer, and adapt to the way you work.": [
+      "/index.html"
+    ],
+    "Atlas is a real desktop tool: it understands objectives, works with your environment, and can grow new abilities over time.": [
+      "/index.html"
+    ],
+    "Atlas is a serious desktop assistant—not a thin chat window wrapped around a model.": [
+      "/index.html"
+    ],
+    "Atlas is ready.": [
+      "/index.html"
+    ],
+    "Atlas listing what it can do: files, system, web, text, utilities, notes and developer actions.": [
+      "/index.html"
+    ],
+    "Atlas principles": [
+      "/index.html"
+    ],
+    "Atlas settings showing three execution modes and the emergency stop key.": [
+      "/index.html"
+    ],
+    "Atlas understands": [
+      "/index.html"
+    ],
+    "Atlas, your way.": [
+      "/index.html"
+    ],
+    "Automation": [
+      "/index.html"
+    ],
+    "Available now": [
+      "/index.html"
+    ],
+    "Built around a desktop-first architecture with local capabilities at the center.": [
+      "/index.html"
+    ],
+    "Built for control.<1/>Built to be useful.<2/>Built to adapt.": [
+      "/index.html"
+    ],
+    "Built for Windows · Desktop-first": [
+      "/index.html"
+    ],
+    "Capabilities": [
+      "/index.html"
+    ],
+    "CAPABILITIES": [
+      "/index.html"
+    ],
+    "Capability over chat": [
+      "/index.html"
+    ],
+    "Choose a visual personality without changing the core system.": [
+      "/index.html"
+    ],
+    "Choose how much Atlas asks before it acts.": [
+      "/index.html"
+    ],
+    "Close": [
+      "/index.html"
+    ],
+    "Confirm Actions": [
+      "/index.html"
+    ],
+    "Customization": [
+      "/index.html"
+    ],
+    "CUSTOMIZATION": [
+      "/index.html"
+    ],
+    "Describe the outcome in natural language.": [
+      "/index.html"
+    ],
+    "Designed to grow": [
+      "/index.html"
+    ],
+    "Designed to interact with the apps, windows, files, and tools you actually use.": [
+      "/index.html"
+    ],
+    "Desktop assistant · <1>Available now</1>": [
+      "/index.html"
+    ],
+    "Desktop assistant built for capability, customization, and control.": [
+      "/index.html"
+    ],
+    "Desktop control": [
+      "/index.html"
+    ],
+    "Discord": [
+      "/index.html"
+    ],
+    "Do It": [
+      "/index.html"
+    ],
+    "Documentation, releases, and additional Atlas links.": [
+      "/index.html"
+    ],
+    "Download": [
+      "/index.html"
+    ],
+    "Download Atlas": [
+      "/index.html"
+    ],
+    "Download Atlas.": [
+      "/index.html"
+    ],
+    "Electric Blue": [
+      "/index.html"
+    ],
+    "Execution mode": [
+      "/index.html"
+    ],
+    "Execution preferences": [
+      "/index.html"
+    ],
+    "Explore": [
+      "/index.html"
+    ],
+    "Explore Atlas": [
+      "/index.html"
+    ],
+    "GH": [
+      "/index.html"
+    ],
+    "GitHub": [
+      "/index.html"
+    ],
+    "Graphite": [
+      "/index.html"
+    ],
+    "HOW ATLAS WORKS": [
+      "/index.html"
+    ],
+    "How much Atlas should ask before acting.": [
+      "/index.html"
+    ],
+    "Identity": [
+      "/index.html"
+    ],
+    "Intelligence": [
+      "/index.html"
+    ],
+    "Interface": [
+      "/index.html"
+    ],
+    "INTERFACE": [
+      "/index.html"
+    ],
+    "It interprets the request and chooses an appropriate path.": [
+      "/index.html"
+    ],
+    "Local-first": [
+      "/index.html"
+    ],
+    "Made to do things, not just answer.": [
+      "/index.html"
+    ],
+    "Make it yours: theme, accent and effects.": [
+      "/index.html"
+    ],
+    "More ↓": [
+      "/index.html"
+    ],
+    "More than a chatbot.": [
+      "/index.html"
+    ],
+    "No giant workflow diagram required. The core loop is intentionally easy to understand.": [
+      "/index.html"
+    ],
+    "Open menu": [
+      "/index.html"
+    ],
+    "PHILOSOPHY": [
+      "/index.html"
+    ],
+    "Plan First": [
+      "/index.html"
+    ],
+    "Platform": [
+      "/index.html"
+    ],
+    "Preview": [
+      "/index.html"
+    ],
+    "Primary navigation": [
+      "/index.html"
+    ],
+    "Product": [
+      "/index.html"
+    ],
+    "Project": [
+      "/index.html"
+    ],
+    "See the interface": [
+      "/index.html"
+    ],
+    "Shape the assistant around your name, voice, appearance, behavior, and preferred execution style.": [
+      "/index.html"
+    ],
+    "Skills &amp; workflows": [
+      "/index.html"
+    ],
+    "Slate Violet": [
+      "/index.html"
+    ],
+    "Stay in control": [
+      "/index.html"
+    ],
+    "Steel Teal": [
+      "/index.html"
+    ],
+    "System": [
+      "/index.html"
+    ],
+    "Task · Activity · Settings": [
+      "/index.html"
+    ],
+    "The activity is visible and the system remains configurable.": [
+      "/index.html"
+    ],
+    "The assistant should fit your workflow—not the other way around. Explore a few of the controls you can use to make Atlas personal.": [
+      "/index.html"
+    ],
+    "The Atlas home screen: a greeting, a list of recent activity, and a message box.": [
+      "/index.html"
+    ],
+    "The desktop application is ready. Download the Windows installer directly from GitHub Releases; Atlas can update itself when new releases are published.": [
+      "/index.html"
+    ],
+    "The goal is a system that becomes more capable without becoming harder to understand. The interface stays calm. The controls stay explicit. The assistant adapts to the person using it.": [
+      "/index.html"
+    ],
+    "The latest Windows installer is served from GitHub Releases. Atlas can update itself when new releases are published.": [
+      "/index.html"
+    ],
+    "The name Atlas uses when speaking to you.": [
+      "/index.html"
+    ],
+    "Theme choices": [
+      "/index.html"
+    ],
+    "Tools and desktop actions carry the task forward.": [
+      "/index.html"
+    ],
+    "Turn a plain-language goal into a sequence of useful actions and repeatable workflows.": [
+      "/index.html"
+    ],
+    "Understand what you are trying to accomplish, then choose tools and actions that fit the task.": [
+      "/index.html"
+    ],
+    "v": [
+      "/index.html"
+    ],
+    "v<1/>": [
+      "/index.html"
+    ],
+    "View GitHub Releases ↗": [
+      "/index.html"
+    ],
+    "Windows · x64": [
+      "/index.html"
+    ],
+    "Windows installer · Automatic updates": [
+      "/index.html"
+    ],
+    "You ask": [
+      "/index.html"
+    ],
+    "You stay in control": [
+      "/index.html"
+    ],
+    "Your assistant can feel like yours.": [
+      "/index.html"
+    ],
+    "Your desktop.<1/><2>Your commands.</2><3/>Your assistant.": [
+      "/index.html"
+    ]
+  }
+}

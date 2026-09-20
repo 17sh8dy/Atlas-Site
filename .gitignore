@@ -1,0 +1,11 @@
+# local state and secrets - never commit
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
