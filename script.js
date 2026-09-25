@@ -1,5 +1,5 @@
 const CONFIG = {
-  version: '1.0.2',
+  version: '1.0.3',
   status: 'Available now',
   downloadUrl: 'https://github.com/17sh8dy/Atlas/releases/latest/download/Atlas_1.0.2_x64-setup.exe',
   githubUrl: 'https://github.com/17sh8dy/Atlas',
