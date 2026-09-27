@@ -1,14 +1,19 @@
+const VERSION = '1.0.3'
+
 const CONFIG = {
-  version: '1.0.3',
+  version: VERSION,
   status: 'Available now',
-  downloadUrl: 'https://github.com/17sh8dy/Atlas/releases/latest/download/Atlas_1.0.2_x64-setup.exe',
+  downloadUrl: `https://github.com/17sh8dy/Atlas/releases/download/v${VERSION}/Atlas_${VERSION}_x64-setup.exe`,
   githubUrl: 'https://github.com/17sh8dy/Atlas',
   discordUrl: 'https://discord.gg/XBhER9Z6EB',
 }
 
 // The installer is a GitHub release asset (it is far too large for this site to host), named
-// Atlas_<version>_x64-setup.exe by `pnpm release` in the Atlas repo. `releases/latest/download/`
-// always resolves to the newest release. The installer itself handles in-app update checks.
+// Atlas_<version>_x64-setup.exe by `pnpm release` in the Atlas repo. The URL is built from VERSION
+// and pinned to that release's tag, so bumping VERSION is the only edit a new release needs, and
+// the link keeps working if a newer release ships before this site is bumped. (A hardcoded
+// filename under `releases/latest/download/` 404s the moment the two disagree.) The installer
+// itself handles in-app update checks.
 
 const THEMES = {
   graphite: { label: 'Graphite', accent: '#8ea2bd' },
