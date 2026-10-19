@@ -1,4 +1,4 @@
-const VERSION = '1.0.10'
+const VERSION = '2.0.0'
 
 const CONFIG = {
   version: VERSION,
